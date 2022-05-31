@@ -1,2 +1,2 @@
 # CourseRecommendTest
-Course Recommendation System created using Vectorization and cosine similarity
+Course Recommendation System created using Count Vectorization and cosine similarity
